@@ -2208,6 +2208,11 @@
     "version" : "5.1.2",
     "status" : "ok"
   }, {
+    "id" : "org.talend.repository.model.migration.RenameAmazonMysqlMigrationTask",
+    "breaks" : "8.0.1",
+    "version" : "8.0.1",
+    "status" : "noimpact"
+  }, {
     "id" : "org.talend.repository.model.migration.RenameConnectionName4tSQSOutput",
     "breaks" : "7.3.0",
     "version" : "7.3.1",
@@ -2517,6 +2522,11 @@
     "breaks" : "7.3.0",
     "version" : "7.3.1",
     "status" : "ok"
+  }, {
+    "id" : "org.talend.repository.model.migration.SAPReceiverKeyPrefixQuoteMigrationTask",
+    "breaks" : "8.0.1",
+    "version" : "8.0.1",
+    "status" : "noimpact"
   }, {
     "id" : "org.talend.repository.model.migration.SQS2TCKMigrationTask",
     "breaks" : "8.0.1",
